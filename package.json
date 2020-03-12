@@ -10,7 +10,7 @@
     "url": "git://github.com/fiveisprime/skeleton.less"
   },
   "dependencies": {
-    "gulp": "^3.5.2",
+    "gulp": "^4.0.0",
     "gulp-less": "^1.2.1"
   }
 }
